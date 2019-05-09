@@ -5,4 +5,5 @@ duo
 tres
 quatre
 quinque
+sex
 branche grovs on the trea
